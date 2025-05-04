@@ -1,0 +1,19 @@
+.control-section-online-pharmacy h3.accordion-section-title {
+    color: #4e97fd !important;
+    border-left: none !important;
+    border-right: none !important;
+    border:1px solid #dcdcde !important;
+}
+a.button.button-secondary.alignright{
+    background: #4e97fd;
+    color: #ffffff !important;
+    padding: 0 5px;
+    margin-top: -2px;
+}
+.actions {
+    margin-top: 3em !important;
+    margin-bottom: 3em !important;
+}
+#accordion-section-online_pharmacy_section_pro a.button.button-secondary.alignright{
+    background-color: #21cdc0;
+}
